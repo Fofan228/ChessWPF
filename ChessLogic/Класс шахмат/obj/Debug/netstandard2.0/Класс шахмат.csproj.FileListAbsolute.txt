@@ -1,0 +1,9 @@
+C:\Users\LENOVO\Desktop\Chess\Класс шахмат\obj\Debug\netstandard2.0\Класс шахмат.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Chess\Класс шахмат\obj\Debug\netstandard2.0\Класс шахмат.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Chess\Класс шахмат\obj\Debug\netstandard2.0\Класс шахмат.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Chess\Класс шахмат\bin\Debug\netstandard2.0\Класс шахмат.deps.json
+C:\Users\LENOVO\Desktop\Chess\Класс шахмат\bin\Debug\netstandard2.0\Класс шахмат.dll
+C:\Users\LENOVO\Desktop\Chess\Класс шахмат\bin\Debug\netstandard2.0\Класс шахмат.pdb
+C:\Users\LENOVO\Desktop\Chess\Класс шахмат\obj\Debug\netstandard2.0\Класс шахмат.dll
+C:\Users\LENOVO\Desktop\Chess\Класс шахмат\obj\Debug\netstandard2.0\Класс шахмат.pdb
+C:\Users\LENOVO\Desktop\Chess\Класс шахмат\obj\Debug\netstandard2.0\Класс шахмат.csprojAssemblyReference.cache
